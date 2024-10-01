@@ -1,4 +1,4 @@
-# NeetCode-150-Solutions
-Notes and solutions for the NeetCode 150 LeetCode Problems
+# Coding-Problem-Solutions
+Notes and solutions for the Coding Problem Solutions
 
 Note: Does not include Premium problems
